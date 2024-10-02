@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN and Next.js projects<br>👯 I’m looking to collaborate on full-stack web applications<br>🤝 I’m looking for help with improving performance and scalability of web apps<br>🌱 I’m currently learning advanced Next.js and serverless architectures<br>💬 Ask me about JavaScript, React, Node.js, and MongoDB<br>⚡ Fun fact: I can debug code faster than I can cook noodles!
+🔭 I’m currently working on MERN and Next.js projects<br>👯 I’m looking to collaborate on full-stack web applications<br>🤝 I’m looking for help with improving performance and scalability of web apps<br>🌱 I’m currently learning advanced Next.js and serverless architectures<br>💬 Ask me about JavaScript, React, Node.js, and MongoDB<br>⚡ Fun fact: I dream in code snippets!
 
 
 ## 🌐 Socials:
